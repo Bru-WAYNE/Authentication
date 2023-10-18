@@ -18,7 +18,6 @@ To install the project, follow these steps:
     ```bash
     npm install
     ```
-
 ## Usage
 To use the project:
 
