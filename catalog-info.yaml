@@ -6,6 +6,7 @@ metadata:
   description: |
     "A Expense Tracker React App that uses Redux Tool Kit (RTK) and RTK QUERY  for state management..."
   annotations:
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Bru-WAYNE/Authentication
     github.com/project-readme-path: README.md
     backstage.io/view-url: https://github.com/Bru-WAYNE/Authentication/blob/main/README.md
