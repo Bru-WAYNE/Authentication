@@ -2,9 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "Authentication"
-  title: "Expense Tracker React APP"
+  title: "Backend Authentication NODEJS"
   description: |
-    "A Expense Tracker React App that uses Redux Tool Kit (RTK) and RTK QUERY  for state management..."
+    "demonstarte the autheitcation practices used in node js project"
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Bru-WAYNE/Authentication
