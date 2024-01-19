@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Authentication"
+  title: "Expense Tracker React APP"
+  description: |
+    "A Expense Tracker React App that uses Redux Tool Kit (RTK) and RTK QUERY  for state management..."
+  annotations:
+    github.com/project-slug: Bru-WAYNE/Authentication
+    github.com/project-readme-path: README.md
+    backstage.io/view-url: https://github.com/Bru-WAYNE/Authentication/blob/main/README.md
+    backstage.io/edit-url: https://github.com/Bru-WAYNE/Authentication/edit/main/README.md
+    backstage.io/source-location: url:https://github.com/Bru-WAYNE/Authentication
+  tags:
+    - plugin
+    - oss
+    - frontend
+spec:
+  type: service
+  owner: group:open-source
+  lifecycle: production
